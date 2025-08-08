@@ -1,0 +1,12 @@
+{
+  "key_id": "912897EF57BD5AE6EBE88142639D9259DF6D7296",
+  "uid": "scorpio-Ceremonial Architect",
+  "email": "scorpioC84@outlook.com",
+  "curve": "Ed25519 / Curve25519",
+  "valid_until": "2028-08-07",
+  "passphrase_protected": true,
+  "revocation_certificate": "stored",
+  "trust": "ultimate",
+  "lineage": "Scorpio Shrine",
+  "notes": "Ceremonial ECC key for signing scrolls, verifying Bitcoin binaries, and encoding emotional resonance."
+}

@@ -1,0 +1,15 @@
+{
+  "event": "bitcoin_core_verification",
+  "version": "25.0",
+  "verified_on": "2025-08-08",
+  "verified_by": [
+    "Gloria Zhao",
+    "Ava Chow",
+    "Ben Carman",
+    "Michael Ford",
+    "Cory Fields",
+    "Wladimir J. van der Laan"
+  ],
+  "status": "verified",
+  "notes": "Binary hash matched signed SHA256SUMS. Multi-signer trust constellation confirmed."
+}
